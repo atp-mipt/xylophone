@@ -52,7 +52,7 @@
         <maven.checkstyle.plugin.version>3.1.2</maven.checkstyle.plugin.version>
         <maven.source.plugin.version>3.2.1</maven.source.plugin.version>
         <maven.javadoc.plugin.version>3.3.0</maven.javadoc.plugin.version>
-        <approval.version>11.6.0</approval.version>
+        <approval.version>11.7.0</approval.version>
     </properties>
 
     <distributionManagement>
